@@ -1,4 +1,4 @@
-# Simulation-Python-DNS-server-client
+# Simulation-of-DNS-server-client-in-Python
 In this basic dns simulation, server has the A type and cname type record stored in the dictionary. Client sends the query to the server via UDP protocol and in response get the corresponding response.
 
 How to run server.py? Just get your machine's ip address and change the ip and port (within usable range) in the server.py where comments are mentioning to do so. Then run the server.py.
